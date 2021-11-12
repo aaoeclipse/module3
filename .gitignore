@@ -1,0 +1,5 @@
+.ipynb*
+**/.ipynb*
+**/__py*
+*.pyc
+**/*.pyc
